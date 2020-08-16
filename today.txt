@@ -1,0 +1,5 @@
+the number of words in the dictionary with the required length will play a role here
+
+num of words
+ratio of words size/num of words
+length of words
